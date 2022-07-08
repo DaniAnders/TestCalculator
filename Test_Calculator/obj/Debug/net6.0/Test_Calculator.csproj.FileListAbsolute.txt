@@ -1,0 +1,15 @@
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/bin/Debug/net6.0/Test_Calculator
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/bin/Debug/net6.0/Test_Calculator.deps.json
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/bin/Debug/net6.0/Test_Calculator.runtimeconfig.json
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/bin/Debug/net6.0/Test_Calculator.dll
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/bin/Debug/net6.0/Test_Calculator.pdb
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/Test_Calculator.csproj.AssemblyReference.cache
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/Test_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/Test_Calculator.AssemblyInfoInputs.cache
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/Test_Calculator.AssemblyInfo.cs
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/Test_Calculator.csproj.CoreCompileInputs.cache
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/Test_Calculator.dll
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/refint/Test_Calculator.dll
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/Test_Calculator.pdb
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/Test_Calculator.genruntimeconfig.cache
+/Users/danielle/Projects/Test_Calculator/Test_Calculator/obj/Debug/net6.0/ref/Test_Calculator.dll
